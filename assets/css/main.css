@@ -5448,7 +5448,7 @@ button.b-btn.btn-black {
 
 .contact-address-icon i {
   font-size: 15px;
-  color: #03b664;
+  color: #ffc226;
   position: relative;
   top: 1px;
 }
@@ -5631,7 +5631,7 @@ button.b-btn.btn-black {
 }
 
 .event-content span i {
-  color: #03b664;
+  color: #0F4C81;
   padding-right: 5px;
 }
 
@@ -5649,7 +5649,7 @@ button.b-btn.btn-black {
 }
 
 .event-text span i {
-  color: #03b664;
+  color: #0F4C81;
   padding-right: 5px;
 }
 
@@ -5700,14 +5700,14 @@ button.b-btn.btn-black {
 }
 
 .event-bg:hover .evt-button a {
-  border-color: #03b664;
-  background: #03b664;
+  border-color: #0F4C81;
+  background: #0F4C81;
   color: #ffffff;
 }
 
 .event-bg.active .evt-button a {
-  border-color: #03b664;
-  background: #03b664;
+  border-color: #0F4C81;
+  background: #0F4C81;
   color: #ffffff;
 }
 
