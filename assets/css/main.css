@@ -4007,7 +4007,7 @@ label {
 
 .video-icon a {
   font-size: 20px;
-  color: #03b664;
+  color: #0F4C81;
   height: 100px;
   display: inline-block;
   width: 100px;
@@ -4130,7 +4130,7 @@ label {
   -o-transition: .3s;
   transition: .3s;
   position: relative;
-  background: #03b664;
+  background: #0F4C81;
 }
 
 .video-02-icon a::before {
@@ -4142,7 +4142,7 @@ label {
   bottom: -2px;
   right: -2px;
   border-radius: inherit;
-  border: 1px solid #03b664;
+  border: 1px solid #0F4C81;
   -webkit-animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both infinite;
   animation: btnIconRipple 2s cubic-bezier(0.23, 1, 0.32, 1) both infinite;
   -webkit-transition: .3s;
@@ -4174,7 +4174,7 @@ label {
 
 .designation span {
   font-size: 16px;
-  color: #03b664;
+  color: #0F4C81;
   font-weight: 400;
 }
 
@@ -4189,7 +4189,7 @@ label {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
-  border: 2px dashed #03b664;
+  border: 2px dashed #0F4C81;
 }
 
 .testimonial-thumb>img {
@@ -4323,7 +4323,7 @@ label {
 }
 
 .testimonia-item-active .slick-dots li.slick-active button {
-  background: #03b664;
+  background: #0F4C81;
 }
 
 .test-button {
@@ -4726,7 +4726,7 @@ label {
 }
 
 .blog-video-icon>a:hover {
-  background: #03b664;
+  background: #0F4C81;
 }
 
 .blog-sidebar .widget {
@@ -6485,7 +6485,7 @@ button.b-btn.btn-black {
 }
 
 .history-wrapper:hover {
-  background-color: #03b664;
+  background-color: #0F4C81;
 }
 
 .history-arrow {
@@ -6520,7 +6520,7 @@ button.b-btn.btn-black {
   transform: translateX(-50%);
   height: 18px;
   width: 18px;
-  background: #03b664;
+  background: #ec1c24;
   border-radius: 50%;
   z-index: 9;
   -webkit-transition: .3s;
@@ -6529,7 +6529,7 @@ button.b-btn.btn-black {
 }
 
 .history-arrow:hover::before {
-  border-color: #03b664 transparent transparent transparent;
+  border-color: #0F4C81 transparent transparent transparent;
 }
 
 .history-text h4 {
@@ -6599,12 +6599,12 @@ button.b-btn.btn-black {
 }
 
 .history-line:hover::before {
-  background: #03b664;
+  background: #0F4C81;
   color: #ffffff;
 }
 
 .history-line:hover::after {
-  background: #03b664;
+  background: #0F4C81;
   color: #ffffff;
 }
 
@@ -6640,7 +6640,7 @@ button.b-btn.btn-black {
   transform: translateX(-50%);
   height: 18px;
   width: 18px;
-  background: #03b664;
+  background: #ec1c24;
   border-radius: 50%;
   z-index: 9;
   -webkit-transition: .3s;
@@ -6649,7 +6649,7 @@ button.b-btn.btn-black {
 }
 
 .history-arrow-2:hover::before {
-  border-color: transparent transparent #03b664 transparent;
+  border-color: transparent transparent #0F4C81 transparent;
 }
 
 /* 22. contact */
